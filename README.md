@@ -1,7 +1,7 @@
 # Predictive Analytics for Business Nanodegree Capstone Project
 The final project of the Predictive Analytics for Business Nanodegree by Udacity. 
 
-Project: [Predictive Analytics Capstone](https://github.com/yashd20/Predictive-Analytics-for-Business-Nanodegree/blob/master/Capstone_Project/Predictive%20Analytics%20Capstone.pdf)
+Project: [Predictive Analytics Capstone](https://github.com/yashd20/Predictive-Analytics-for-Business-Nanodegree/blob/master/Capstone_Project/Predictive%20Analytics%20Capstone.pdf) (Click to view)
 
 The project was split into 3 tasks.
 
